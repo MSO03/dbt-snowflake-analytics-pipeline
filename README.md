@@ -1,1 +1,1 @@
-# dbt-bigquery-analytics-pipeline
+# dbt-snowflake-analytics-pipeline
